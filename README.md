@@ -4,11 +4,11 @@
 
 ## 👥 Integrantes del Equipo
 
-* Darien sifert    
-* Gillermo contreras
-* javier rebolledo
+* Darien Sifert    
+* Gillermo Contreras
+* Javier Rebolledo
 * Pedro Soto
-* Benjamin lineros
+* Benjamin Lineros
 
 ---
 
