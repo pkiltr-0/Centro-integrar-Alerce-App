@@ -25,9 +25,13 @@ android {
                 "proguard-rules.pro"
             )
         }
+<<<<<<< HEAD
 
     }
 
+=======
+    }
+>>>>>>> aaba39e10092bee3399cab94c4dcb9980c6a403a
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11

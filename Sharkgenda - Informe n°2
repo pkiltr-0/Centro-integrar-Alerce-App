@@ -1,0 +1,97 @@
+# 🦈 Sharkgenda
+
+**Informe N°2**
+
+**Integrantes:**
+- Benjamin Lineros  
+- Javier Rebolledo  
+- Guillermo Contreras  
+- Darien Siefert  
+- Pedro Soto  
+
+---
+
+## 📑 Índice
+1. [Sharkgenda](#-sharkgenda)
+2. [Progreso logrado vs planificado](#-progreso-logrado-vs-planificado)
+3. [Dificultades encontradas](#-dificultades-encontradas)
+4. [Ajustes al plan original](#-ajustes-al-plan-original)
+5. [Conclusión general del avance](#-conclusión-general-del-avance)
+
+---
+
+## 🦈 Sharkgenda
+
+Durante el período de desarrollo correspondiente al cronograma original, el equipo **“Javier y los Rebolledos”** ha mostrado un avance significativo en las fases planificadas, cumpliendo en su mayoría con los plazos establecidos en la Carta Gantt.
+
+En la fase de **Planificación y Diseño (Semanas 1–2)** se completó el levantamiento de requisitos funcionales y no funcionales, junto con la definición detallada de la arquitectura de software.  
+Además, se elaboraron los **prototipos de interfaz de usuario (UI)** y **experiencia de usuario (UX)** en **Figma**, consolidando una base visual coherente y moderna para la aplicación móvil.
+
+Durante la fase de **Desarrollo Backend (Semanas 3–4)**, se configuraron los servicios de **Firebase Authentication** y **Cloud Firestore**, logrando la conexión estable con la base de datos en la nube.  
+Se implementaron los módulos de autenticación de usuarios, gestión de datos y operaciones CRUD, verificando su correcto funcionamiento mediante pruebas unitarias internas.
+
+Actualmente, el equipo se encuentra ejecutando la fase de **Desarrollo Frontend (Semanas 5–6)**, la cual contempla la construcción de las vistas principales, la integración con los servicios del backend y la optimización de la experiencia de usuario.  
+El avance estimado en esta etapa alcanza aproximadamente un **70%**, con componentes funcionales operativos como el inicio de sesión, la visualización de la agenda y la gestión del perfil de usuario.
+
+---
+
+## 🚀 Progreso logrado vs planificado
+
+A continuación, se presenta una síntesis del progreso logrado en comparación con lo planificado:
+
+| **Etapa / Actividad** | **Periodo Planificado** | **Progreso Alcanzado** | **Estado Actual** |
+|------------------------|------------------------|-------------------------|-------------------|
+| **Planificación y Diseño** | Semanas 1–2 | Finalizado completamente (requisitos, arquitectura y prototipo) | ✅ Completado |
+| **Desarrollo Backend** | Semanas 3–4 | Firebase configurado y CRUD operativo | ✅ Completado |
+| **Desarrollo Frontend** | Semanas 5–6 | Integración de interfaz con backend | 🔄 En progreso |
+| **Pruebas y Despliegue** | Semana 7 | Configuración de entorno de pruebas pendiente | ⏳ Pendiente |
+
+En general, el progreso se mantiene **alineado con los objetivos iniciales**, sin desviaciones críticas que comprometan la entrega final del proyecto.
+
+---
+
+## ⚙️ Dificultades encontradas
+
+Durante el proceso de desarrollo se presentaron ciertos desafíos técnicos y de coordinación, los cuales fueron abordados oportunamente por el equipo.  
+Las principales dificultades fueron las siguientes:
+
+- **Integración con Firebase:**  
+  Se presentaron incompatibilidades entre las dependencias de Gradle y las versiones de las librerías de Firebase durante la configuración inicial del backend.  
+  Este inconveniente ocasionó un leve retraso, solucionado mediante la actualización del entorno de desarrollo y la revisión colaborativa de dependencias.
+
+- **Sincronización entre Frontend y Backend:**  
+  En la etapa de integración se detectaron inconsistencias en la lectura de datos desde Firestore, principalmente en el módulo de actividades.  
+  Para resolverlo, se ajustó la estructura del modelo de datos y se optimizaron las consultas de lectura.
+
+- **Coordinación de trabajo en equipo:**  
+  Debido a diferencias en los horarios de los integrantes, se dificultó la sincronización de commits en el repositorio.  
+  Se implementó como solución un sistema de **reuniones breves diarias (daily meetings)** para mejorar la comunicación y garantizar la coherencia del código.
+
+A pesar de estos obstáculos, el equipo ha mantenido el cumplimiento general del cronograma y la calidad del producto, demostrando un **compromiso sólido con la continuidad y éxito del proyecto**.
+
+---
+
+## 🛠️ Ajustes al plan original
+
+En función de las dificultades técnicas y las mejoras implementadas, se realizaron **ajustes menores** al plan inicial, los cuales no alteran la fecha final de entrega:
+
+- Se extendió en **una semana la fase de desarrollo frontend**, para optimizar la interfaz, mejorar la fluidez visual y aplicar ajustes de diseño derivados de las pruebas de usabilidad.  
+- Se agregó una etapa de **pruebas unitarias automáticas adicionales**, orientadas a verificar la conexión estable entre Firebase y la aplicación.  
+- Se adelantó parcialmente la **elaboración de la documentación de usuario**, con el objetivo de liberar tiempo en la etapa final de despliegue para centrarse en las pruebas de rendimiento y validación integral.
+
+Estos ajustes reflejan la **flexibilidad y adaptabilidad** del equipo frente a los desafíos técnicos, manteniendo siempre la calidad, coherencia del desarrollo y el cumplimiento de los objetivos del proyecto.
+
+---
+
+## 🧩 Conclusión general del avance
+
+El proyecto **Sharkgenda** continúa su desarrollo conforme al plan estratégico establecido, con resultados tangibles y coherentes con los objetivos del **Centro Integral Alerce**.
+
+La coordinación del equipo, el cumplimiento de los hitos principales y la resolución efectiva de los problemas técnicos reflejan un **nivel de madurez alto** en la gestión del desarrollo.
+
+El equipo **“Javier y los Rebolledos”** reafirma su compromiso con la entrega de una aplicación **funcional, segura y escalable**, manteniendo la **calidad técnica y visual** como ejes fundamentales del producto final.
+
+---
+
+📅 *Última actualización:* Octubre 2025  
+🏗️ *Proyecto académico - Centro Integral Alerce*
